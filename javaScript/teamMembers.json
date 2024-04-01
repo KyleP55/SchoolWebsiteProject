@@ -1,0 +1,107 @@
+{"teamMembers": [
+  {
+    "image": "images/male1.png",
+    "name": "Henry Jones",
+    "title": "CEO, Co-Founder",
+    "department": "Operations, Development",
+    "bio": "As the founder and CEO of New Heights Ladder Co. Henry has been the main drive for the companys production and expansion. Back in 1978 when he and Janet opened the first store, he already had eight years of sales and management experience under his belt which he put to his advantage to create a successful company. Over the past decades Henry has turned a single store into a multi-million dollar corporation that expands across Canada and the US, and under his leadership it is still growing opening new stores."
+  },
+  {
+    "image": "images/female1.png",
+    "name": "Janet Wiggins",
+    "title": "Co-Founder, Alberta North Regional Manager",
+    "department": "Administration, Operations",
+    "bio": "Janet co-founded the company with Henry back in 1978. They started out as equal partners where Henry did most of the sale and Janet did most of the admin side, such as budgets, inventory, staffing and investing. By 1982 they had five stores in Alberta and Janet was happy with this and wanted to stop expanding as she felt the more stores, they had the less they would have the more it would lose their charm. So, in 1983 she ended her partnership but remains a regional manager for the stores in Alberta."
+  },
+  {
+    "image": "images/male2.png",
+    "name": "Thomas Lavalley",
+    "title": "B.C. Regional Manager",
+    "department": "Operations",
+    "bio": "Thomas Joined the company in 1981 and became the Regional Manager for British Columbia by 1984. He started out working for the company in one of the Alberta stores unloading trucks, then worked his way up to management. He was trained in all positions and provided a lot for the company. When he was offered the job in B.C., he took it right away."
+  },
+  {
+    "image": "images/male3.png",
+    "name": "James Reid",
+    "title": "Lead Web and Database Designer",
+    "department": "Tech",
+    "bio": "James started his career in web development and database designs in 1997, and was offered to be the lead designer of New Heights digital domain in 2003. When he joined the team he quickly set up a website and a data system that efficiently linked all the stores together, providing a better shop experience and easier methods to handle product stock."
+  },
+  {
+    "image": "images/female2.png",
+    "name": "Monica Duncan",
+    "title": "Class Trainer, Business Communications",
+    "department": "Development, Marketing",
+    "bio": "Monica had eight years of management and sales experience from a big box hardware store when she joined the team in 1994. She was hired on as the staff trainer for Ontario and Quebec regions due to her experience and expertise. When there isn't a class to train, she travels to varying large companies to build customer relationships, advertise products and create business contracts."
+  },
+  {
+    "image": "images/male4.png",
+    "name": "Simon Lane",
+    "title": "CFO",
+    "department": "Finance",
+    "bio": "Simon joined in 1984 as the Chief Financial Officer. He had 8 years experience from working in banks prior to joining. He started out as a general manager at one of the stores in B.C., then in 1986 he was promoted to District Manager. Through hard work and dedication, he climbed through the ranks up to CFO by 1989 and has been there since."
+  },
+  {
+    "image": "images/male5.png",
+    "name": "Toby Lerone",
+    "title": "Chief Marketing Officer",
+    "department": "Marketing",
+    "bio": "Toby Graduated from Fanshaw in 1981 with a marketing and business degree. He worked for Mondelēz International for six years before joining New Heights. Over the years Toby worked closely with the company, business partners and the marketing team to help spread the work of the products and services out company offered. This effort is largely what helped bring our stores to the U.S.."
+  },
+  {
+    "image": "images/female3.png",
+    "name": "Kim Howelly",
+    "title": "Chief Administrator",
+    "department": "Administration",
+    "bio": "Kim Graduated from Lambton College for a degree in Administrations in 1977. She has worked for other large hardware stores before joining New Heights in 1985. She was only part-time when she started and only worked for the stores in B.C., but as more stores opened up toward the eastern part of Canada she became full time and became Chief of Administrations."
+  },
+  {
+    "image": "images/female4.png",
+    "name": "Hanna Smith",
+    "title": "Chief Customer Service",
+    "department": "Customer Service",
+    "bio": "Hanna had seven years of experience in sales and customer service before joining in 1986. She first joined the company as a shift manager, then showed her skills in customer service. At this time the company had started expanding all over Canada and they needed a customer service department to connect all the stores together. Hanna was the companys first choice to lead this department and she accepted right away."
+  },
+  {
+    "image": "images/female5.png",
+    "name": "Linda Hurst",
+    "title": "Assistant Web Designer",
+    "department": "Tech",
+    "bio": "Linda joined the company in 2005 as an accountant. She did programming as a hobby but never really worked in the field until she met James. When she seen that the company was creating a website, she asked to be a part of it and they gave her a chance. After seeing the work, she was doing she was promoted to Assistant Web Designer."
+  },
+  {
+    "image": "images/female6.png",
+    "name": "Tracy Duncan",
+    "title": "Chief Accounting",
+    "department": "Accounting",
+    "bio": "Tracy had worked for many companies in Ontario and had nine years of accounting experience. She was approached by New Heights Ladder Co. for her expertise in 1993 to manage and monitor all the accounting for all the stores in Canada. She accepted the offer and has been a valuable part of the team for the past few decades."
+  },
+  {
+    "image": "images/male6.png",
+    "name": "Clay Veens",
+    "title": "Sales Trainer",
+    "department": "Sales",
+    "bio": "Clayton graduated from Western University in 1994 with a major in Business. He had worked for many firms and had five years experience by the time he joined New Heights in 1999. He travels across Canada and the U.S. training new staff members on sales techniques and business communications. Clay works with other companys to work out contracts as well."
+  },
+  {
+    "image": "images/female2.png",
+    "name": "Lacy Stevensons",
+    "title": "Lead Inventory Manager",
+    "department": "Products",
+    "bio": "Lacy had eleven years experience in management when she joined New Heights. She joined in 2011 as a store manager and by the third year she was promoted to regional manager of the GTA. In 2015 she was promoted to Lead Inventory Manager and now over sees the store and warehouse inventories and tracks sales reports for the items as well."
+  },
+  {
+    "image": "images/male2.png",
+    "name": "Jake Handerson",
+    "title": "U.S. Regional Manager",
+    "department": "Operations",
+    "bio": "Jake graduated from Harvard in 1999 with a masters in business. He had six years of management experience by the time he joined the company in 2005. He started out in Ontario as a store manage but when the company was starting to expand in the U.S., they asked him he wanted to be the regional manage for the U.S. as it was his home country."
+  },
+  {
+    "image": "images/male3.png",
+    "name": "John Jinkens",
+    "title": "Ontario and Quebec Regional Manager",
+    "department": "Operations",
+    "bio": "John joined New Heights Ladder Co. in 2003 as a warehouse worker. In 2005 he was promoted to store manager in Ontario. In 2009 he briefly left the company to go to school for a masters in business, but came back in 2012 as a district manage. Then in 2015 he was promoted to regional manager of Ontario and Quebec."
+  }
+]}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>New Heights Ladder Co</title>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/stylesMain.css">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="JavaScript/mobileNavFunction.js"></script>
+
+    <script src="javaScript/jquery.validate.min.js"></script>
+    <script src="javaScript/additional-methods.min.js"></script>	
+    <script src="javaScript/formValidation.js"></script>
+
+    <script> $(function(){ $("#header").load("assets/header.html");  }); </script> 
+    <script> $(function(){ $("#nav").load("assets/nav.html");  }); </script> 
+    <script> $(function(){ $("#footer").load("assets/footer.html");  }); </script> 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <div id="header"></div>
+    <div id="nav"></div>
+
+    <div id="container">
+      <main>
+        <h2 class="fullbubble"><b>Contact Us</b></h2> 
+        <p>Contact us for any questions or infomation. Also feel free to add your email to our list for weekly flyers to keep up to date on new items and discounts!</p><br>
+
+        <form id="contact_form">
+
+          <fieldset>
+            <legend><h3 class="smallbubble">General Information:</h3></legend>
+            <label for="fName">First Name:</label>
+            <input type="text" name="fName" id="fName"><br>
+
+            <label for="lName">Last Name:</label>
+            <input type="text" name="lName" id="lName"><br>
+
+            <label for="email">Email:</label>
+            <input type="text" name="email" id="email"><br>
+
+            <label for="phone">Phone Number:</label>
+            <input type="text" name="phone" id="phone"><br>
+          </fieldset>
+
+          <br>
+
+          <fieldset>
+            <legend><h3 class="smallbubble">Preferrence:</h3></legend>
+
+            <div class="radioStyle">
+              <input type="radio" id="pref1" name="contactPref" value="emailPref" checked>
+              <label for="pref1">Email:</label><br>
+              <input type="radio" id="pref2" name="contactPref" value="phonePref">
+              <label for="pref2">Phone:</label><br>
+            </div>
+          </fieldset>
+
+          <br>
+
+          <fieldset>
+            <legend><h3 class="smallbubble">Questions?</h3></legend>
+            <textarea id="questions" name="questions" rows="6" cols="50"></textarea>
+          </fieldset>
+
+          <br>
+
+          <fieldset>
+            <legend><h3 class="smallbubble">Promo For:</h3></legend>
+            <ul>
+                <li><input type="checkbox" name="flyer" id="flyer" value="flyer" class="chkbx" checked>Weekly Flyer</li>
+                <li><input type="checkbox" name="NewProducts" id="NewProducts" value="NewProducts" class="chkbx" checked>New Products</li>
+                <li><input type="checkbox" name="salesEvents" id="salesEvents" value="salesEvents" class="chkbx" checked>Sales Events</li>
+            </ul>
+          </fieldset>
+
+          </br>
+
+          <fieldset>
+            <legend><h3 class="smallbubble">Referral</h3></legend>
+            <label for="reference">Referral Source:</label>
+            <select name="reference" id="reference">
+              <option value="N/A">N/A</option>
+              <option value="ad">Advertisement</option>
+              <option value="friend">Friends</option>
+              <option value="google">Google</option>
+              <option value="social">Social Media</option>
+              <option value="other">Other</option>
+            </select>
+          </fieldset>
+
+          </br></br></br>
+
+          <input type="submit" id="submit" value="Submit Form" class="btn">
+          <input type="reset" id="reset" value="Reset Form" class="btn">
+
+        </form>
+        
+      </main>
+    </div>
+
+    <div id="footer"></div>
+  </body>
+
+</html>
